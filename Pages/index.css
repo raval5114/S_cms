@@ -1,0 +1,34 @@
+body
+{
+    /* background-image: url("src\sports-tools.jpg");
+     */
+  
+        background-image: url("sports-tools.jpg");
+        background-repeat: repeat-x;
+}
+.navbar
+{
+    padding: auto;
+    margin: auto;
+    font-size: medium;
+}
+.form-control
+{
+    margin: auto;
+    padding: auto;
+    width: 220px;
+    display: flex;
+    flex-direction: column;
+}
+.heading
+{
+    margin: auto;
+    padding: auto;
+}
+/* .title
+{
+    margin: auto;
+    padding: auto;
+    align-items: center;
+    justify-items: center;
+} */
